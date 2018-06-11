@@ -1,3 +1,2 @@
 # spinning-rock
-
-I am currently completing the hello-world tutorial for github, because there is nothing else to do.
+What would you do for a klondike bar? Question of the century right there
